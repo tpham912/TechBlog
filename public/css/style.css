@@ -1,5 +1,13 @@
-header, .project:not(:last-child) {
-  border-bottom: 1px solid #ccc;
+header, .blog:not(:last-child) {
+  border-bottom: 1px solid black;
+}
+
+nav, h1, a {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-right: 2em;
+
 }
 
 .no-button {
@@ -7,18 +15,12 @@ header, .project:not(:last-child) {
   border: none;
   padding: 0;
   cursor: pointer;
-  color: #1b89bc;
+  color: blue;
   text-decoration: none;
   font-size: 100%;
 }
 
 .no-button:hover {
-  color: #065b83;
+  color: #21db40;
   text-decoration: underline;
-}
-
-.dollar-amount {
-  color: #056605;
-  font-weight: bold;
-  margin-left: -5px;
 }

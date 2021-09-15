@@ -4,6 +4,7 @@ This application is built with CMS-style incorporated for developers who write a
 
 Heroku URL: https://git.heroku.com/aqueous-thicket-12112.git
 
+GitHub URL: https://tpham912.github.io/TechBlog/
 
 
 

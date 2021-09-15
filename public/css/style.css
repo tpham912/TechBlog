@@ -5,9 +5,8 @@ header, .blog:not(:last-child) {
 nav, h1, a {
   display: flex;
   flex-direction: row;
-  justify-content: flex-start;
+  justify-content: center;
   margin-right: 2em;
-
 }
 
 .no-button {
@@ -23,4 +22,8 @@ nav, h1, a {
 .no-button:hover {
   color: #21db40;
   text-decoration: underline;
+}
+
+a {
+display: block;
 }

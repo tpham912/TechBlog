@@ -20,6 +20,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [MySQL](https://www.mysql.com/)
 - [MVC](https://handlebarsjs.com/)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [SQL](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
 
 ## Appearance
 
